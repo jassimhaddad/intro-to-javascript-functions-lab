@@ -200,5 +200,5 @@ function basicCalculator(num1, num2, operation) {
     } else {
         return 'Unkown operation';
     }
-}
+}  
 console.log('Exercise 9 Result:', basicCalculator(10, 5, "subtract"));
